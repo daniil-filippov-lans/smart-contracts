@@ -1,0 +1,9 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "sandbox for solidity smart contracts",
+  "main": "index.js",
+  "repository": "https://github.com/euphoretic/smart-contracts.git",
+  "author": "danil_lans <danimen0001@gmail.com>",
+  "license": "MIT"
+}
